@@ -1,0 +1,11 @@
+$color: purple;
+
+.box {
+    p {
+        color: $color !important
+    }
+    #text {
+        color: green;
+        text-align: center;
+    }
+}
